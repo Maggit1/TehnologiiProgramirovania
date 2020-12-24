@@ -1,0 +1,7 @@
+C:\Users\Beast\source\repos\LW_2\bin\Debug\LW_2.exe.config
+C:\Users\Beast\source\repos\LW_2\bin\Debug\LW_2.exe
+C:\Users\Beast\source\repos\LW_2\bin\Debug\LW_2.pdb
+C:\Users\Beast\source\repos\LW_2\obj\Debug\LW_2.csprojAssemblyReference.cache
+C:\Users\Beast\source\repos\LW_2\obj\Debug\LW_2.csproj.CoreCompileInputs.cache
+C:\Users\Beast\source\repos\LW_2\obj\Debug\LW_2.exe
+C:\Users\Beast\source\repos\LW_2\obj\Debug\LW_2.pdb
