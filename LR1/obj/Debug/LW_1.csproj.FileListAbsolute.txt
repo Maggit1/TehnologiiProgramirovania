@@ -1,0 +1,7 @@
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\bin\Debug\LW_1.exe.config
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\bin\Debug\LW_1.exe
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\bin\Debug\LW_1.pdb
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\obj\Debug\LW_1.csprojAssemblyReference.cache
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\obj\Debug\LW_1.csproj.CoreCompileInputs.cache
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\obj\Debug\LW_1.exe
+D:\СКФУ\2 КУРС\Технологии программирования\LW_1\obj\Debug\LW_1.pdb
