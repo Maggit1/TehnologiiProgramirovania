@@ -13,13 +13,13 @@ namespace LW_1
             Console.WriteLine("Лабораторня работа №1 «Разработка консольного приложения»");
             Console.WriteLine("");
             Console.WriteLine("=================================");
-            Console.WriteLine("Амирханов Магомед Джамалудинович");
+            Console.WriteLine("Кошевой Дмитрий Андреевич");
             Console.WriteLine("Группа: ИНС-б-о-19-1(1), 09.03.02");
-            Console.WriteLine("Дата рождения: 23 августа 2001 года");
-            Console.WriteLine("Город: Махачкала");
+            Console.WriteLine("Дата рождения: 4 июля 2001 года");
+            Console.WriteLine("Город: Ставрополь");
             Console.WriteLine("=================================");
-            Console.WriteLine("Любимый предмет в школе: Информатика");
-            Console.WriteLine("Увлечения, хобби, интересы: Люблю собирать различные проекты на arduino, смотреть фильмы и читать книги.");
+            Console.WriteLine("Любимый предмет в школе: Физика");
+            Console.WriteLine("Увлечения, хобби, интересы: Собираю и настраиваю компьютеры. Чаще всего слушаю Queen и Guns N' Roses.");
             Console.WriteLine("");
             Console.WriteLine("////////////////////////////////////////////////////////////////////////////////////////////////////");
             Console.WriteLine("");
