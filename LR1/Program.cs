@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks;https://github.com/Maggit1/TehnologiiProgramirovania/blob/main/LR1/Program.cs
 
 namespace LW_1
 {
@@ -13,9 +13,9 @@ namespace LW_1
             Console.WriteLine("Лабораторня работа №1 «Разработка консольного приложения»");
             Console.WriteLine("");
             Console.WriteLine("=================================");
-            Console.WriteLine("Кошевой Дмитрий Андреевич");
+            Console.WriteLine("Амирханов Магомед");
             Console.WriteLine("Группа: ИНС-б-о-19-1(1), 09.03.02");
-            Console.WriteLine("Дата рождения: 4 июля 2001 года");
+        
             Console.WriteLine("Город: Ставрополь");
             Console.WriteLine("=================================");
             Console.WriteLine("Любимый предмет в школе: Физика");
